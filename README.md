@@ -42,5 +42,6 @@ WordTracingView.swift	Trace randomly generated words
 Drawing.swift	Model for finger drawing paths
 
 📘 License
-This project is open source under the MIT License. Feel free to fork, contribute, or adapt it!
+© 2024 Vijay Suryawanshi. All rights reserved.
+This code is proprietary and may not be copied, modified, or distributed without written permission from the author.
 
